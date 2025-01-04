@@ -1,6 +1,6 @@
 # SAP-Next-Gen-Project
 
-I am currently working on a project wherein me and my team are building a UI (using SAP Build) which will be implemented across all Telstra payphone screens in Melbourne. This UI is being built with the aim of helping homeless people navigate through life on the streets.
+I recently completed working on a project wherein me and my team had to build a UI (using SAP Build) which will be implemented across all Telstra payphone screens in Melbourne. This UI was built with the aim of helping homeless people navigate through life on the streets.
 
 ### Introduction
 
@@ -14,4 +14,4 @@ These features have been proposed based on the core principles of Maslow’s Hie
 
 
 #### Note: 
-The project is still ongoing and the final UI is not complete yet. For now, the project plan has been attached which includes the scope, methodology, budget and timeline. 
+The project was built using a free 90 day subscription of SAP Build. As a result, the full working UI can't be displayed here. However, I have attached a report and a PPT depicting how the UI looked and functioned. Our final UI was presented to representatives from Telstra and SAP who gave us important feedback. 
